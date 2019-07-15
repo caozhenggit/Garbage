@@ -1,0 +1,6 @@
+/**app.wxss**/
+.container {
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+} 
